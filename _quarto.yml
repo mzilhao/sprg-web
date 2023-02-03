@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: _site
+
+keywords: relatividade geral
+
+lang: pt
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+website:
+  title: "sprg"
+  description: "sociedade portuguesa de relatividade e gravitação"
+  image: ./media/sprg_redlogo.png
+  favicon: ./media/sprg_redlogo.png
+  #site-url:
+  navbar:
+    logo: ./media/sprg_redlogo.png
+    #title: false
+    left:
+      #- href: index.qmd
+      #  text: SPRG
+      - href: objectivos.qmd
+        text: Objectivos
+      - href: estatutos.qmd
+        text: Estatutos
+      - href: divulgacao.qmd
+        text: Divulgação
+      - href: membros.qmd
+        text: Membros
+      - href: assembleias.qmd
+        text: Assembleias Gerais
+      - href: corpos.qmd
+        text: Corpos Sociais
+  #body-header: |
+  #  ![](./media/einstein_right.png){width="100px"}
+  #page-footer:
+  #    left: |
+  #      Com o apoio de
+  #      [![](./media/UA_logo.png){width="100px"}](https://www.ua.pt)
+  #      [![](./media/2022_FCT_Logo_B_horizontal_preto.png){width="100px"}](https://www.fct.pt)
