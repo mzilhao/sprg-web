@@ -1,0 +1,15 @@
+---
+title: "Relatividade Geral Sem Cálculo - Uma Introdução Concisa à Geometria da Relatividade"
+description: "Versão portuguesa do livro General Relativity Without Calculus, onde se apresenta a Teoria de Relatividade Geral (incluindo buracos negros e cosmologia) assumindo apenas conhecimentos de Matemática e Física ao nível do ensino secundário"
+author:
+  - name: José Natário
+date: 00 10 2015
+#image:
+#draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+![](./Estagio_1.pdf){width="100%" height="800px"}
+
+<!--
+http://www.amazon.com/General-Relativity-Without-Calculus-Undergraduate/dp/3642214517
+-->

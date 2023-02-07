@@ -1,0 +1,11 @@
+---
+title: "Sussurros do espaço-tempo"
+description: "\"Talk\" apresentada no TEDx Aveiro em Maio de 2012 explicando o que são ondas gravitacionais."
+author:
+  - name: Carlos Herdeiro
+date: 00 05 2012
+#image:
+#draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/verr4bTaB2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

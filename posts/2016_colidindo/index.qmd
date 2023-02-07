@@ -1,0 +1,11 @@
+---
+title: "Colidindo Buracos Negros"
+description: "Texto publicado na Gazeta de Física da Sociedade Portuguesa de Física em 2009, explicando os desenvolvimentos do campo da relatividade numérica que permitem, entre outras coisas, estudar um dos fenómenos mais violentos do Universo: a colisão de dois buracos negros."
+author:
+  - name: Vitor Cardoso e Carlos Herdeiro
+date: 01 01 2016
+#image:
+#draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+![](./gazeta-32-012.pdf){width="100%" height="800px"}
