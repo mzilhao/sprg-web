@@ -1,0 +1,8 @@
+---
+title: "Recursos recomendados pela SPRG (em inglês)"
+date: 01 01 2014
+---
+
+- [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g)
+- [Tutorial de Cosmologia](https://www.astro.ucla.edu/~wright/cosmolog.htm), por Ned Wright
+- [Viagens Virtuais a Buracos Negros e Estrelas de Neutrões](https://apod.nasa.gov/htmltest/rjn_bht.html), por Robert Nemiroff
