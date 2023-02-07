@@ -1,5 +1,6 @@
 ---
 listing:
+  image-placeholder: /media/sprg_redlogo.png
   contents: posts
 ---
 

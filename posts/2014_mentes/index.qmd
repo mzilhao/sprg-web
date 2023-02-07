@@ -1,11 +1,8 @@
 ---
-title: "Porto Canal - Mentes que Brilham - Carlos Herdeiro"
+title: "Porto Canal -- Mentes que Brilham -- Carlos Herdeiro"
 description: "Entrevista dada ao Porto Canal em Outubro de 2014, explicando o que são buracos negros, como poderão vir a ser detectados com futuras observações e também um novo tipo de buracos negros (teóricos) \"com cabelo\", descobertos em 2014."
-author:
-  - name: Carlos Herdeiro
-date: 00 10 2014
-#image:
-#draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+date: 21 10 2014
+image: /media/sprg_redlogo.png
 ---
 
-![Mentes Que Brilham - 21 de Outubro](https://portocanal.sapo.pt/um_video/u9ayszNuLVYu9fkRczBH){.external target=_blank}
+[Mentes Que Brilham -- 21 de Outubro](https://portocanal.sapo.pt/um_video/u9ayszNuLVYu9fkRczBH){.external target="_blank"}
