@@ -2,7 +2,7 @@
 title: "Uma Breve História do Universo: Do Big Bang ao Universo Acelerado"
 description: "Texto publicado na Gazeta de Física da Sociedade Portuguesa de Física em 2006 explicando o modelo cosmológico padrão."
 image: /media/sprg_redlogo.png
-date: 01 07 2006
+date: 01 01 2015
 ---
 
 </br>
