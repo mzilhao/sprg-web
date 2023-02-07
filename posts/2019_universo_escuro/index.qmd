@@ -1,8 +1,9 @@
 ---
 title: "Viagem pelo Universo Escuro"
-description: "Exposição sobre Gravitação e Cosmologia produzida por um grupo da Universidade de Barcelona (incluindo Jorge Rocha e Miguel Zilhão)"
+description: "Exposição sobre Gravitação e Cosmologia produzida por um grupo da Universidade de Barcelona (incluindo Jorge Rocha e Miguel Zilhão)."
 date: 01 09 2019
 image: https://serviastro.ub.edu/sites/serviastro/files/media/image/2019-09/01_Title_pt_1000.jpg
 ---
 
 [![](https://serviastro.ub.edu/sites/serviastro/files/media/image/2019-09/01_Title_pt_1000.jpg){width="100%"}](https://serviastro.ub.edu/en/materials/exhibitions/unravelling-dark-universe#expo-tab-4){target="_blank"}
+x

@@ -2,7 +2,7 @@
 title: "Colidindo Buracos Negros"
 description: "Texto publicado na Gazeta de Física da Sociedade Portuguesa de Física em 2009, explicando os desenvolvimentos do campo da relatividade numérica que permitem, entre outras coisas, estudar um dos fenómenos mais violentos do Universo: a colisão de dois buracos negros."
 date: 01 01 2009
-image: /media/sprg_redlogo.png
+image: https://www.spf.pt/files/magazines/publications/covers/65.jpg
 ---
 
 </br>

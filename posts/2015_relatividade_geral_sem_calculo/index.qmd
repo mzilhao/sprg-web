@@ -1,6 +1,6 @@
 ---
 title: "Relatividade Geral Sem Cálculo"
-description: "Uma Introdução Concisa à Geometria da Relatividade"
+description: "Uma Introdução Concisa à Geometria da Relatividade."
 date: 03 07 2015
 image: /media/sprg_redlogo.png
 ---

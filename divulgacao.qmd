@@ -2,6 +2,8 @@
 listing:
   image-placeholder: /media/sprg_redlogo.png
   contents: posts
+  sort: "date desc"
+  type: default
 ---
 
 Aqui podem ser encontradas contribuições dos vários membros da SPRG para a divulgação de Relatividade Geral e Gravitação.
