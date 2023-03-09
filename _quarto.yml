@@ -10,7 +10,7 @@ format:
   html:
     theme: flatly
     css: styles.css
-    toc: true
+    toc: false
 
 website:
   title: "sprg"
@@ -24,8 +24,8 @@ website:
     left:
       #- href: index.qmd
       #  text: SPRG
-      - href: objectivos.qmd
-        text: Objectivos
+      # - href: objectivos.qmd
+      #  text: Objectivos
       - href: estatutos.qmd
         text: Estatutos
       - href: divulgacao.qmd
