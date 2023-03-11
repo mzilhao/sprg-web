@@ -2,7 +2,7 @@
 title: "Relatividade Geral Sem Cálculo"
 description: "Uma Introdução Concisa à Geometria da Relatividade."
 date: 03 07 2015
-image: /media/sprg_redlogo.png
+image: GRwithoutCalculus.jpg
 ---
 
 Versão portuguesa do livro [General Relativity Without Calculus](http://www.amazon.com/General-Relativity-Without-Calculus-Undergraduate/dp/3642214517){.external target="_blank"}, onde se apresenta a Teoria de Relatividade Geral (incluindo buracos negros e cosmologia) assumindo apenas conhecimentos de Matemática e Física ao nível do ensino secundário.

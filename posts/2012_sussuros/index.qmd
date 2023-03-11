@@ -2,6 +2,7 @@
 title: "Sussurros do espaço-tempo"
 description: "\"Talk\" apresentada no TEDx Aveiro em Maio de 2012 explicando o que são ondas gravitacionais."
 date: 01 01 2015
+image: SussurosDoEspacoTempo.jpg
 ---
 
 </br>
