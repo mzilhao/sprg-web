@@ -36,8 +36,6 @@ website:
         text: Assembleias Gerais
       - href: corpos.qmd
         text: Corpos Sociais
-  #body-header: |
-  #  ![](/media/einstein_right.png){width="100px"}
   #page-footer:
   #    left: |
   #      Com o apoio de

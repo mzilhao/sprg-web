@@ -1,3 +1,11 @@
+---
+# title: "sociedade portuguesa de relatividade e gravitação"
+about:
+  template: marquee
+  image: ./media/ligo.jpg
+#  links:
+---
+
 
 ## Apresentação
 
