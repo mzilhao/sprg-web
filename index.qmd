@@ -2,7 +2,7 @@
 # title: "sociedade portuguesa de relatividade e gravitação"
 about:
   template: marquee
-  image: ./media/ligo.jpg
+#  image: ./media/ligo.jpg
 #  links:
 ---
 
@@ -11,7 +11,7 @@ about:
 
 A Sociedade Portuguesa de Relatividade e Gravitação (SPRG) foi fundada em 2014, tendo como principal objectivo unir toda a comunidade científica portuguesa a trabalhar nos vários aspectos de Relatividade Geral e Gravitação.
 
-
+<!-- 
 ## Objectivos
 
 A SPRG é uma associação privada sem fins lucrativos que tem como objetivo promover e desenvolver a investigação e a divulgação da Relatividade e da Gravitação, em particular:
@@ -22,3 +22,4 @@ A SPRG é uma associação privada sem fins lucrativos que tem como objetivo pro
 4. Promovendo atividades de investigação e de divulgação relacionadas com a Relatividade e a Gravitação, incluindo a organização de reuniões científicas, conferências e publicações.
 5. Estimulando o trabalho de jovens investigadores através da atribuição de um prémio anual.
 6. Apoiando o ensino e a formação de investigadores em todas as áreas da Relatividade e da Gravitação.
+ -->
