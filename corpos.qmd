@@ -2,152 +2,123 @@
 toc: true
 ---
 
-## Officers (Membros dos orgãos sociais), 2022-2023
+## Membros dos órgãos sociais
 
-<!--
-### Direcção
+Segue-se a lista dos membros dos órgãos sociais, nos vários mandatos desde a instalação da SPRG.
 
-|                | 
-:----------------|:----------------
-Presidente       | Filipe Mena
-Vice-Presidente  | José Lemos
-Tesoureiro       | Jorge Rocha
+### 2022-2023
 
+#### Direcção
 
-### Assembleia Geral
-
-|                | 
-:----------------|:-----------------
-Presidente       | Carlos Herdeiro
-1º Secretário    | Miguel Zilhão
-2º Secretário    | Pedro Cunha
-
-
-Fiscal único:              J. Costa
--->
-
-### Direcção
-
-#### Presidente
+##### Presidente
 Filipe Mena
 
-#### Vice-Presidente
+##### Vice-Presidente
 José Lemos
 
-#### Tesoureiro
+##### Tesoureiro
 Jorge Rocha
 
 
-### Assembleia Geral
+#### Assembleia Geral
+
+##### Presidente
+Carlos Herdeiro
+
+##### 1º Secretário
+Miguel Zilhão
+
+##### 2º Secretário
+Pedro Cunha
+
+
+#### Fiscal único
+João Costa
+
+
+### 2020-2021
+
+#### Direcção
+
+##### Presidente
+José Sande Lemos
+
+##### Vice-Presidente
+Carlos Herdeiro
+
+##### Tesoureiro
+João Costa
+
+#### Assembleia Geral
+
+##### Presidente
+Filipe Mena
+
+##### 1º Secretário
+Miguel Zilhão
+
+##### 2º Secretario
+Pedro Cunha
+
+#### Fiscal Único
+Jorge Rocha
+
+
+
+### 2018-2019
+
+#### Direcção
 
 #### Presidente
 Carlos Herdeiro
 
-#### 1º Secretário
-Miguel Zilhão
+##### Vice-Presidente
+José Natário
 
-#### 2º Secretário
-Pedro Cunha
+##### Tesoureiro
+Vitor Cardoso
 
 
-### Fiscal único
+#### Assembleia Geral
+
+##### Presidente
+José Sande Lemos
+
+##### 1º Secretário
+Filipe Mena
+
+##### 2º Secretario
 João Costa
 
 
-## Officers (Membros dos orgãos sociais), 2020-2021
-
-#### President (Presidente da Direcção)
-José Sande Lemos  
-IST, Universidade de Lisboa
-
-#### Vice President (Vice-Presidente da Direcção)
-Carlos Herdeiro  
-Universidade de Aveiro
-
-#### Treasurer (Tesoureiro)
-João Costa  
-ISCTE, Instituto Universitário de Lisboa
-
-#### Auditor (Fiscal Único)
-Jorge Rocha  
-ISCTE, Instituto Universitário de Lisboa
+#### Fiscal Único
+Jorge Rocha
 
 
+### 2016-2017
 
-#### President of the General Assembley (Presidente da Assembleia Geral)
-Filipe Mena  
-IST, Universidade de Lisboa
+#### Direcção
 
-#### First Secretary (1º Secretário)
-Miguel Zilhão  
-IST, Universidade de Lisboa
+##### Presidente
+José Natário
 
-#### Second Secretary (2º Secretario)
-Pedro Cunha  
-Universidade de Aveiro
+##### Vice-Presidente
+Carlos Herdeiro
 
-
+##### Tesoureiro
+Vitor Cardoso
 
 
-## Officers (Membros dos orgãos sociais), 2018-2019
+#### Assembleia Geral
 
-#### President (Presidente da Direcção)
-Carlos Herdeiro  
-Universidade de Aveiro and IST, Universidade de Lisboa
+##### Presidente
+José Sande Lemos
 
-#### Vice President (Vice-Presidente da Direcção)
-José Natário  
-IST, Universidade de Lisboa
+##### 1º Secretário
+Filipe Mena
 
-#### Treasurer (Tesoureiro)
-Vitor Cardoso  
-IST, Universidade de Lisboa
+##### 2º Secretario
+João Costa
 
-#### Auditor (Fiscal Único)
-Jorge Rocha  
-ISCTE, Instituto Universitário de Lisboa
-
-#### President of the General Assembley (Presidente da Assembleia Geral)
-José Sande Lemos 
-IST, Universidade de Lisboa
-
-
-#### First Secretary (1º Secretário)
-Filipe Mena  
-Universidade do Minho
-
-#### Second Secretary (2º Secretario)
-João Costa  
-ISCTE, Instituto Universitário de Lisboa
-
-
-## Officers (Membros dos orgãos sociais), 2016-2017
-
-#### President (Presidente da Direcção)
-José Natário  
-IST, Universidade de Lisboa
-
-#### Vice President (Vice-Presidente da Direcção)
-Carlos Herdeiro  
-Universidade de Aveiro
-
-#### Treasurer (Tesoureiro)
-Vitor Cardoso  
-IST, Universidade de Lisboa
-
-#### Auditor (Fiscal Único)
-Francisco Lobo  
-FCUL, Universidade de Lisboa
-
-#### President of the General Assembley (Presidente da Assembleia Geral)
-José Sande Lemos  
-IST, Universidade de Lisboa
-
-
-#### First Secretary (1º Secretário)
-Filipe Mena  
-Universidade do Minho
-
-#### Second Secretary (2º Secretario)
-João Costa  
-ISCTE, Instituto Universitário de Lisboa
+#### Fiscal Único
+Francisco Lobo
