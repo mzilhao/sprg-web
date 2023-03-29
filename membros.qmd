@@ -1,32 +1,32 @@
 1. José Sande Lemos  
-Instituto Superior Técnico – CENTRA
+Instituto Superior Técnico -- CENTRA
 
 2. José Natário  
-Instituto Superior Técnico - CAMGSD
+Instituto Superior Técnico -- CAMGSD
 
 3. Carlos Herdeiro  
-Universidade de Aveiro - Gr@v
+Universidade de Aveiro -- Gr@v/CIDMA
 
 4. Vitor Cardoso  
-Instituto Superior Técnico – CENTRA
+Instituto Superior Técnico -- CENTRA
 
 5. João Lopes Costa  
-ISCTE-IUL
+ISCTE-IUL -- CAMGSD
 
 6. Filipe Mena  
-Universidade do Minho
+Instituto Superior Técnico -- CAMGSD
 
 7. Filipe Moura  
-Universidade do Minho
+ISCTE-IUL
 
 8. Jorge Rocha  
-Instituto Superior Técnico - CENTRA
+ISCTE-IUL -- CENTRA
 
 9. Miguel Zilhão  
-Universidade de Aveiro
+Universidade de Aveiro -- Gr@v/CIDMA
 
 10. Pedro Cunha  
-IST & Universidade de Aveiro
+Universidade de Aveiro -- Gr@v/CIDMA
 
 11. Afonso Coxito  
 FCTUC
@@ -38,67 +38,67 @@ Universidade Lusófona e GFMUL
 U. Coimbra
 
 14. Alexandre Pombo  
-U. Aveiro
+FZU
 
 15. Ana Maria Mourão  
-Instituto Superior Técnico - CENTRA
+Instituto Superior Técnico -- CENTRA
 
 16. Andrea Maselli  
-Sapienza University of Rome
+GSSI
 
 17. André Martins  
-Instituto Superior Técnico - CENTRA
+Instituto Superior Técnico -- CENTRA
 
 18. Anne Franzen  
-Instituto Superior Técnico - CAMGSD
+Instituto Superior Técnico -- CAMGSD
 
 19. Antonio Amorim  
-Faculdade de Ciências da Universidade de Lisboa
+FCUL -- CENTRA
 
 20. Artur Alho  
-CAMGSD IST
+Instituto Superior Técnico -- CAMGSD
 
 21. Björn Gohla  
 GFM/UL
 
 22. Caio Bezerra Macedo  
-Instituto Superior Técnico - CENTRA
+UFPA
 
 23. Carlos Frajuca  
 IFSP
 
 24. David Hilditch  
-Instituto Superior Técnico – CENTRA
+Instituto Superior Técnico -- CENTRA
 
 25. Delsate Térence  
 University of Mons, Belgium
 
 26. Diego Rubiera-Garcia  
-Institute of Astrophysics and Space Sciences - Lisbon University
+Universidad Complutense Madrid
 
 27. Diogo Pinto Leite de Bragança  
 Stanford University
 
 28. Emanuele Berti  
-University of Mississippi
+Johns Hopkins University
 
 29. Eugen Radu  
-U. Aveiro
+Universidade de Aveiro -- Gr@v/CIDMA
 
 30. Fethi Mubin Ramazanoglu  
 KOC UNIVERSITY (ISTANBUL)
 
 31. Filipe Costa  
-CAMGSD - IST Lisbon
+Instituto Superior Técnico -- CAMGSD
 
 32. Flávio de Sousa Coelho  
-Universidade de Aveiro
+Universidade de Aveiro -- Gr@v/CIDMA
 
 33. Francisco Miguel Batista Duque  
-CENTRA, Instituto Superior Técnico
+Instituto Superior Técnico -- CENTRA
 
 34. Francisco Lobo  
-U. Lisboa
+FCUL -- IA
 
 35. Gonzalo J. Olmo  
 Universidad de Valencia
@@ -107,133 +107,134 @@ Universidad de Valencia
 Instituto Superior Técnico
 
 37. Grigorios Panotopoulos  
-Instituto Superior Técnico - CENTRA
+Universidad de la Frontera
 
 38. Guilherme Raposo  
-Universidade de Aveiro
+Universidade de Aveiro -- Gr@v/CIDMA
 
 39. Gustavo Salgado Enríquez  
 Instituto de Investigación Avanzada
 
 40. Hugo Ferreira  
-University of Nottingham
+Feedzai
 
 41. Ilidio Lopes  
-Instituto Superior Técnico - CENTRA
+Instituto Superior Técnico -- CENTRA
 
 42. Irene Brito  
-Universidade do Minho
+Universidade do Minho -- CMUM
 
 43. Isabel Suárez Fernández  
-CENTRA
+Universitat de les Illes Balears
 
 44. Javier Rubio  
-Center for Astrophysics and Gravitation (CENTRA)
+Universidad Complutense Madrid
 
 45. Jay Armas  
-Université Libre de Bruxelles
+University of Amsterdam
 
 46. Joao Carlos Vieira Rodrigues  
 Universidade de Coimbra
 
 47. João Luís Rosa  
-Instituto Superior Técnico – CENTRA
+University of Gdansk
 
 48. João Rosa  
-Universidade de Aveiro - Gr@v
+Universidade de Coimbra -- CFisUC
 
 49. João Alves  
-UMinho
+Universidade do Minho
 
 50. João Oliveira  
-U. Aveiro
+Universidade do Minho -- CMUM
 
 51. João Faria Martins  
-Faculdade de Ciências e Tecnologia da Universidade NOVA de Lisboa
+University of Leeds
 
 52. Jorge Drumond Silva  
-Departamento de Matemática, Instituto Superior Técnico
+Instituto Superior Técnico -- CAMGSD
 
 53. Jorge Filipe Mónico Delgado  
-Universidade de Aveiro - Gr@v
+Universidade de Aveiro -- Gr@v/CIDMA
 
 54. Jorge Lopes  
-Instituto Superior Técnico - CENTRA
+Instituto Superior Técnico -- CENTRA
 
 55. José Diogo Simão  
-LMU Muenchen
+FSU Jena
 
 56. José Manuel Mourão  
-Departamento de Matemática, Instituto Superior Técnico
+Instituto Superior Técnico -- CAMGSD
 
 57. José Pedro Mimoso  
-Faculdade de Ciencias, Universidade de Lisboa & IA
+FCUL -- IA
 
 58. Juan Carlos Degollado  
-Universidad de Guadalajara, Mexico
+UNAM
 
 59. Justin Christopher Feng  
-Instituto Superior Técnico - CENTRA
+Instituto Superior Técnico -- CENTRA
 
 60. Jéssica Gonçalves  
 University of Southampton
 
 61. Laura Bernard  
-Instituto Superior Técnico - CENTRA
+Observatoire de Paris -- LUTH
 
 62. Leonel Queimada  
-Instituto Superior Técnico – CENTRA
+Instituto Superior Técnico -- CENTRA
 
 63. Luis Crispino  
 UFPA
 
 64. Marco Sampaio  
-Universidade de Aveiro - Gr@v
+Feedzai
 
 65. M. Margarida Lima  
 Universidade do Minho
 
 66. M. Piedade Machado-Ramos  
-Universidade do Minho
+Universidade do Minho -- CMUM
 
 67. Marko Vojinovic  
-Universidade de Lisboa - GFM
+Universidade de Lisboa -- GFM
 
 68. Miguel Duarte  
-Instituto Superior Técnico - CENTRA
+Instituto Superior Técnico -- CENTRA
 
 69. Miguel Ferreira  
-IST
+Instituto Superior Técnico -- CENTRA
 
 70. NADJA SIMÃO MAGALHÃES  
 Universidade Federal de São Paulo
 
 71. Nelson Nunes  
-U. Lisboa
+FCUL -- IA
 
 72. Nico Sanchis-Gual  
-U. Aveiro
+Universitat de València
 
 73. Nuno M. Santos  
-CENTRA, Instituto Superior Técnico, Universidade de Lisboa
+Universidade de Aveiro -- Gr@v/CIDMA  
+Instituto Superior Técnico -- CENTRA
 
 74. Paolo Pani  
-Sapienza U. of Rome & Instituto Superior Técnico - CENTRA
+Sapienza U. of Rome
 
 75. Paulo Crawford  
 FCUL, Aposentado
 
 76. Paulo Luz  
-U. Minho - CMAT & Instituto Superior Técnico - CENTRA
+ISCTE-IUL
 
 77. Pedro Augusto  
 IA
 
 78. Pedro F. C. Oliveira  
-Instituto Superior Técnico, Universidade de Lisboa
+Instituto Superior Técnico
 
 79. Pedro Girão  
-Instituto Superior Técnico
+Instituto Superior Técnico -- CAMGSD
 
 80. Pheiroijam Suranjoy Singh  
 Bodoland University
@@ -242,37 +243,37 @@ Bodoland University
 IFAE, Barcelona
 
 82. Richard Pires Brito  
-Instituto Superior Técnico - CENTRA
+Instituto Superior Técnico -- CENTRA
 
 83. Rita Teixeira da Costa  
 Universidade de Cambridge
 
 84. Robertus Potting  
-Universidade do Algarve - CENTRA
+Universidade do Algarve -- CENTRA
 
 85. Rodrigo Vicente  
-Instituto Superior Técnico- CENTRA
+IFAE, Barcelona
 
 86. Rui André  
-Instituto Superior Técnico - CENTRA
+Instituto Superior Técnico
 
 87. Sante Carloni  
-Instituto Superior Técnico - CENTRA
+Università di Genova
 
 88. Slobodeanu Radu  
 University of Bucharest
 
 89. Sofia Freitas  
-Instituto Superior Técnico - CENTRA
+Instituto Superior Técnico -- CENTRA
 
 90. Suresh Nampuri  
 CAMGSD-IST
 
 91. Viktor G. Czinner  
-Instituto Superior Técnico - CENTRA
+Instituto Superior Técnico -- CENTRA
 
 92. Vincenzo Vitagliano  
-Instituto Superior Técnico - CENTRA
+Università di Genova
 
 93. Yasser Omar  
-Physics of Information Group, Instituto de Telecomunicações
+Instituto Superior Técnico -- Physics of Information Group, Instituto de Telecomunicações
