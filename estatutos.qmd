@@ -1,3 +1,6 @@
+---
+toc: true
+---
 
 ## Objectivos
 
@@ -16,3 +19,8 @@ A SPRG é uma associação privada sem fins lucrativos que tem como objetivo pro
 Os estatutos da SPRG são públicos e podem ser consultados no ficheiro que se segue:
 
 ![Sociedade Portuguesa de Relatividade e Gravitação - Estatutos 2015](./media/SPRG-Estatutos2015.pdf){width="100%" height="800px"}
+
+
+## "Black holes workshop"
+
+![Estatutos dos encontros científicos "Black holes workshop"](./media/Estatutos_BHW.pdf){width="100%" height="800px"}
