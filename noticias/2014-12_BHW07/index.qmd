@@ -5,6 +5,6 @@ image: logo.png
 date: 20 12 2014
 ---
 
-The [VII Black Holes workshop](http://gravitation.web.ua.pt/bhw7/index.html) took place at Aveiro University from 18-19 December 2014. With over seventy participants from fifteen countries, and a scientific program with 48 talks, this edition continued the growing participation and interest of the international community in this series of workshops, as well as a state of the art review of this exciting field of research. The next edition will take place at IST-Lisbon in December 2015.
+O evento [VII Black Holes workshop](http://gravitation.web.ua.pt/bhw7/index.html) ocorreu na Universidade de Aveiro de 18 a 19 de dezembro de 2014. Com mais de setenta participantes de quinze países e um programa científico com 48 palestras, esta edição manteve o crescente envolvimento e interesse da comunidade internacional nesta série de workshops, bem como uma revisão do estado da arte neste emocionante campo de pesquisa. A próxima edição terá lugar no IST-Lisboa em dezembro de 2015.
 
 ![](bhw7_small.jpg){width="100%"}
