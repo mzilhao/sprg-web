@@ -1,0 +1,12 @@
+---
+title: "Prémio \"Alberto\" 2017"
+description: "Miguel Zilhão foi o vencedor do prémio Alberto 2017. O prémio foi atribuído em 19 de Dezembro de 2017, durante a assembleia geral da SPRG."
+image: Zilhao_premio.jpg
+date: 21 12 2017
+---
+
+A Sociedade Portuguesa de Relatividade e Gravitação concedeu a segunda edição do prémio "Alberto" a Miguel Zilhão, pelas suas contribuições para o estudo da relatividade numérica, incluindo colisões de buracos negros em quatro e mais dimensões e a correspondência AdS-CFT. Este prémio é concedido anualmente no tradicional Workshop de Buracos Negros a um jovem investigador que seja membro da Sociedade.
+
+Miguel Zilhão é um jovem físico do Porto, Portugal, que trabalha em relatividade numérica e física computacional. Completou o seu doutoramento em 2012, sob a orientação dos Profs. Carlos Herdeiro e Vitor Cardoso. Prosseguiu para uma posição de pós-doutoramento no CCRG-RIT, em Rochester, com a Prof. Manuela Campanelli, e depois na Universitat de Barcelona, sob a orientação do Prof. David Mateos. Desde Setembro de 2017 tem sido um investigador FCT no CENTRA-IST, em Lisboa.
+
+![Miguel Zilhão](Zilhao_premio.jpg){width="100%"}
