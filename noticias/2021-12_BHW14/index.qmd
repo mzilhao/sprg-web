@@ -1,0 +1,10 @@
+---
+title: "XIV Black Holes workshop"
+#description: ""
+image: LOGO_XIVBHW.png
+date: 21 12 2021
+---
+
+O evento [XIV Black Holes workshop](http://bhw14.web.ua.pt/home.html) teve lugar de 20 a 21 de Dezembro, 2021, na Universidade de Aveiro.
+
+![](bhw14_grupo.jpg){width="100%"}
