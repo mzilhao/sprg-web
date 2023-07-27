@@ -1,0 +1,11 @@
+---
+title: "5º aniversário da SPRG"
+#description: ""
+image: SPRG_small.jpeg
+date: 19 02 2020
+---
+
+
+A 19 de Fevereiro de 2015, motivada pelo centenário da Teoria da Relatividade Geral, celebrado em 2015, e pelo considerável crescimento da comunidade científica em Portugal dedicada ao estudo desta área, a Sociedade Portuguesa de Relatividade e Gravitação (SPRG) foi formalmente fundada. A foto mostra os membros fundadores presentes durante a criação da sociedade num notário em Lisboa.
+
+![Da esquerda para a direita: C. Herdeiro, V. Cardoso, J. Natário e J. Lemos](SPRG_small.jpeg){width="100%"}
