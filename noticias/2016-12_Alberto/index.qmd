@@ -7,4 +7,8 @@ date: 22 12 2016
 
 O primeiro prémio "Alberto", atribuído a um jovem investigador na área da Relatividade Geral pela SPRG, foi entregue no [IX Black Holes Workshop](https://w3.math.uminho.pt/~ERE2012/) a Jorge Rocha, actualmente na Universidade de Barcelona. O prémio é um holograma com a imagem de Albert Einstein, produzido por Pedro Pombo e Emanuel Santos, na Universidade de Aveiro.
 
+<!--
 ![Jorge Rocha](jorge_rocha.jpg){width="100%"}
+-->
+
+![Prémio Alberto 2016](folheto.pdf){width="100%" height="800px"}
