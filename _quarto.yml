@@ -28,6 +28,8 @@ website:
       #  text: Objectivos
       - href: estatutos.qmd
         text: Objectivos e Estatutos
+      - href: noticias.qmd
+        text: Notícias
       - href: divulgacao.qmd
         text: Divulgação
       - href: membros.qmd

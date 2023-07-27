@@ -1,0 +1,7 @@
+---
+listing:
+  image-placeholder: /media/sprg_redlogo.png
+  contents: noticias
+  sort: "date desc"
+  type: default
+---
