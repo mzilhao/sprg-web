@@ -1,0 +1,11 @@
+---
+title: "Prémio \"Alberto\" 2018"
+#description: ""
+image: alberto2018.jpeg
+date: 20 12 2018
+---
+
+João Rosa (investigador na Universidade de Aveiro) e Richard Brito (investigador no Instituto Max Planck de Física Gravitacional, em Berlim, Alemanha) foram os vencedores do prémio "Alberto" em 2018, atribuído pela Sociedade Portuguesa de Relatividade e Gravitação. O prémio foi concedido pelos seus trabalhos no fenómeno da superradiação e suas implicações físicas e astrofísicas. A entrega do prémio ocorreu durante a Assembleia Geral da SPRG, em 19 de dezembro de 2018, durante o 
+[XI Black Holes Workshop](https://centra.tecnico.ulisboa.pt/network/grit/bhw11/).
+
+![João Rosa e Richard Brito](alberto2018.jpeg){width="100%"}
