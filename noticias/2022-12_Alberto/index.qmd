@@ -1,0 +1,10 @@
+---
+title: "Prémio \"Alberto\" 2022"
+#description: ""
+image: alberto2022.jpg
+date: 21 12 2022
+---
+
+A Sociedade Portuguesa de Relatividade e Gravitação concedeu a quarta edição do prémio "Alberto" a Rita Teixeira da Costa, investigadora na Universidade de Princeton, EUA.
+
+![Rita Teixeira da Costa](alberto2022.jpg){width="100%"}
