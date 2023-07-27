@@ -1,0 +1,12 @@
+---
+title: "X Black Holes workshop"
+#description: ""
+image: logo.png
+date: 20 12 2017
+---
+
+O evento [X Black Holes workshop](http://gravitation.web.ua.pt/bhw10/index.html)
+teve lugar na Universidade de Aveiro entre os dias 18 e 19 de dezembro de 2017. Reuniu quase 100 cientistas a discutir buracos negros a partir de várias perspetivas diferentes. Além de 63 comunicações orais, o workshop incluiu também a quarta Assembleia Geral da Sociedade Portuguesa de Relatividade e Gravitação e uma sessão especial em celebração do 60º aniversário do Prof. J. S. Lemos.
+
+![](XBHWgroupsmall.jpg){width=100%}
+
