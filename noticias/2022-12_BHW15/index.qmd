@@ -1,0 +1,10 @@
+---
+title: "XV Black Holes workshop"
+#description: ""
+image: Poster_XVBHW.jpg
+date: 20 12 2022
+---
+
+O evento [XV Black Holes workshop](https://indico.cern.ch/event/1131905/){.external target="_blank"} teve lugar de 19 a 20 de Dezembro, 2022, no ISCTE, Lisboa.
+
+![](BHW_foto_participantes.jpg){width="100%"}
