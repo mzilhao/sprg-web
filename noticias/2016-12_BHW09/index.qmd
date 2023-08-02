@@ -1,0 +1,12 @@
+---
+title: "IX Black Holes workshop"
+#description: ""
+image: bhw09.jpg
+date: 20 12 2016
+---
+
+O evento [IX Black Holes workshop](https://w3.math.uminho.pt/~ERE2012/){.external target="_blank"} teve lugar de 19 a 20 de Dezembro, 2016, na Universidade do Minho, Campus de Azurém, Guimarães.
+
+</br>
+
+![Póster do evento IX Black Holes workshop](https://w3.math.uminho.pt/~ERE2012/Cartaz.pdf){width="100%" height=1180px}
