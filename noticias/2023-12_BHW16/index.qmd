@@ -1,0 +1,14 @@
+---
+title: "XVI Black Holes workshop"
+#description: ""
+image: xvi_bhw_reduced.png
+date: 20 12 2023
+---
+
+
+O evento [XVI Black Holes workshop](https://blackholes2023.sciencesconf.org/){.external target="_blank"} teve lugar de 19 a 20 de Dezembro, 2023, na FEUP, Porto.
+
+![](BHW16_photo.jpeg){width="100%"}
+
+
+![Póster do evento XVI Black Holes workshop](xvi_black_holes_workshop_poster_2.png)
