@@ -36,8 +36,9 @@ website:
         text: Assembleias Gerais
       - href: corpos.qmd
         text: Corpos Sociais
-  #page-footer:
-  #    left: |
-  #      Com o apoio de
-  #      [![](/media/UA_logo.png){width="100px"}](https://www.ua.pt)
-  #      [![](/media/2022_FCT_Logo_B_horizontal_preto.png){width="100px"}](https://www.fct.pt)
+      - href: info.qmd
+        text: Contactos
+  page-footer:
+    left: "Contacto: s.p.rel.grav@gmail.com"
+    border: true
+    background: light
