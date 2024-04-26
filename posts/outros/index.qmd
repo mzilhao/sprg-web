@@ -1,6 +1,7 @@
 ---
 title: "Recursos recomendados pela SPRG (em inglês)"
 date: 01 01 2014
+image: /media/sprg_redlogo.png
 ---
 
 - [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g)
