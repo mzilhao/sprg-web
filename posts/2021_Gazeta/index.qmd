@@ -1,0 +1,13 @@
+---
+title: "Edição especial da Gazeta de Física: Buracos Negros"
+description: "Edição da Gazeta de Física dedicado à Física de Buracos Negros."
+date: 01 12 2021
+image: Gazeta_2021.png
+---
+
+</br>
+
+
+O Volume 44, Fascículo 2/3, da Gazeta da Física é dedicado à Física de Buracos Negros. Editores convidados: Carlos Herdeiro e José P. S. Lemos.
+
+[![](./Gazeta_2021.png){width="80%"}](https://www.spf.pt/magazines/GFIS/483){target="_blank"}
