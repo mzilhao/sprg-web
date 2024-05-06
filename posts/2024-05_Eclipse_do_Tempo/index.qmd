@@ -1,0 +1,10 @@
+---
+title: "O Eclipse do Tempo"
+description: "Novo livro discutindo os avanços e recuos na investigação sobre as grandes questões da física, desde a mecânica quântica ao fim do universo, passando por buracos negros e ondas gravitacionais."
+date: 06 05 2024
+image: Eclipse_do_Tempo_capa.png
+---
+
+</br>
+
+[![O Eclipse do Tempo](./Eclipse_do_Tempo_capa.png){width="60%"}](https://www.leyaonline.com/pt/livros/divulgacao-cientifica/o-eclipse-do-tempo/){target="_blank"}
