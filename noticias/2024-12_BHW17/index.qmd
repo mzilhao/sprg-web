@@ -1,0 +1,14 @@
+---
+title: "XVII Black Holes workshop"
+#description: ""
+image: XVII_BHW_banner.png
+date: 20 12 2024
+---
+
+
+O evento [XVII Black Holes workshop](https://indico.cern.ch/event/1438059/){.external target="_blank"} teve lugar de 19 a 20 de Dezembro de 2024, na Universidade de Aveiro.
+
+![](XVII_BHW_photo.jpg){width="100%"}
+
+
+![Póster do evento XVII Black Holes workshop](XVII_BHW_poster.jpg)
