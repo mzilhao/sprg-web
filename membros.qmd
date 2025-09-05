@@ -89,7 +89,7 @@ Johns Hopkins University
 Universidade de Aveiro -- Gr@v/CIDMA
 
 30. Fethi Mubin Ramazanoglu  
-KOC UNIVERSITY (ISTANBUL)
+Koc University (Istanbul)
 
 31. Filipe Costa  
 Instituto Superior Técnico -- CAMGSD
@@ -208,7 +208,7 @@ Instituto Superior Técnico -- CENTRA
 69. Miguel Ferreira  
 Instituto Superior Técnico -- CENTRA
 
-70. NADJA SIMÃO MAGALHÃES  
+70. Nadja Simão Magalhães  
 Universidade Federal de São Paulo
 
 71. Nelson Nunes  
@@ -331,3 +331,6 @@ Instituto Superior Técnico
 
 110. Kyriakos Destounis  
 Instituto Superior Técnico -- CENTRA
+
+111. João Dinis Álvares  
+Instituto de Telecomunicações
