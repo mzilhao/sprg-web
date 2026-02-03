@@ -1,0 +1,14 @@
+---
+title: "XVIII Black Holes workshop"
+#description: ""
+image: XVIII_BHW_banner.png
+date: 20 12 2025
+---
+
+
+O evento [XVIII Black Holes workshop](https://fisica.tecnico.ulisboa.pt/en/bhw-xviii/){.external target="_blank"} teve lugar de 19 a 20 de Dezembro de 2025, no Instituto Superior Técnico.
+
+![](XVIII_BHW_photo.jpg){width="100%"}
+
+
+![Póster do evento XVIII Black Holes workshop](XVIII_BHW_poster.png)
