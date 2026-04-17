@@ -13,11 +13,11 @@ format:
 website:
   title: "sprg"
   description: "sociedade portuguesa de relatividade e gravitação"
-  image: /media/sprg_redlogo.png
-  favicon: /media/sprg_redlogo.png
+  image: media/sprg_redlogo.png
+  favicon: media/sprg_redlogo.png
   site-url: https://sprg.web.ua.pt/
   navbar:
-    logo: /media/sprg_redlogo.png
+    logo: media/sprg_redlogo.png
     #title: false
     left:
       #- href: index.qmd
