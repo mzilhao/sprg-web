@@ -37,6 +37,6 @@ website:
       - href: info.qmd
         text: Contactos
   page-footer:
-    left: "Contacto: s.p.rel.grav@gmail.com"
+    left: "Contacto: geral@sprg.pt"
     border: true
     background: light
